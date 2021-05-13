@@ -1,6 +1,6 @@
 <?php
 
-namespace CherryneChou\LaravelShoppingCart;
+namespace CherryneChou\LaravelCart;
 
 use Exception as BaseException;
 
