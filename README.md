@@ -13,11 +13,5 @@ $ composer require cherrynechou/laravel-cart -vvv
 
 TODO
 
-## Contributing
-```
-//distribute resource    
-php artisan vendor:publish --provider="CherryneChou\LaravelShoppingCart\ServiceProvider"
-```
-## License
 
 MIT
