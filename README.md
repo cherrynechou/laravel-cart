@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require cherrynechou/laravel-shopping-cart -vvv
+$ composer require cherrynechou/laravel-cart -vvv
 ```
 
 ## Usage
